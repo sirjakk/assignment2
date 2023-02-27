@@ -1,0 +1,9 @@
+Welcome to the Secret of the Island! Choose an option to start the game.
+1-See all maps
+2-Open map
+3-Decrypt map
+4-Write down secret
+5-Send information to Captain Lila
+0-Exit
+
+Option:
